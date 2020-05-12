@@ -1,0 +1,7 @@
+{
+  "name": "work-force",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
